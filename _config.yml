@@ -1,0 +1,10 @@
+title: Vibrant Davis
+description: >-
+  Making the case for homes near transit in Davis Square.
+lang: en-US
+theme: jekyll-theme-cayman
+show_downloads: false
+github:
+  is_project_page: false
+plugins:
+  - jekyll-seo-tag
