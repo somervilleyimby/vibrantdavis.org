@@ -1,13 +1,48 @@
 ---
 ---
 
-// Brand accent tuned to Vibrant Davis' teal identity (set before the import
-// so they override the theme's Sass defaults — see pages-themes/cayman docs).
-$header-bg-color: #0e7c66;
-$header-bg-color-secondary: #155799;
-$section-headings-color: #0e7c66;
+// "We Love Somerville" poster palette: cream paper, black ink, and the three
+// window-curtain accents (brick red, mustard, navy). Set before the import so
+// they override the theme's Sass defaults — see pages-themes/cayman docs.
+$cream: #f2e9d6;
+$cream-panel: #faf5e8;
+$ink: #211f1a;
+$brick: #a63f2e;
+$mustard: #d6a62e;
+$navy: #2b3a67;
+
+$header-bg-color: $mustard;
+$header-bg-color-secondary: $mustard;
+$header-heading-color: $ink;
+$section-headings-color: $brick;
+$body-text-color: $ink;
+$body-link-color: $brick;
+$blockquote-text-color: mix($ink, $cream, 55%);
+$code-bg-color: $cream-panel;
+$border-color: $ink;
+$hr-border-color: mix($ink, $cream, 25%);
+$table-border-color: mix($ink, $cream, 25%);
 
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Work+Sans:wght@400;500;600;700&display=swap");
+
+body {
+  background-color: $cream;
+  font-family: "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.project-name,
+.hero-headline,
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.stat-number,
+.timeline-date,
+.cta-box h2 {
+  font-family: "Lilita One", "Work Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
 
 .kicker {
   margin: 0 0 0.5rem;
@@ -21,9 +56,8 @@ $section-headings-color: #0e7c66;
 .hero-headline {
   margin: 0 0 1.5rem;
   font-size: 2rem;
-  font-weight: 700;
-  line-height: 1.2;
-  color: $section-headings-color;
+  line-height: 1.3;
+  color: $ink;
 }
 
 .button-row {
@@ -34,14 +68,16 @@ $section-headings-color: #0e7c66;
   display: inline-block;
   margin: 0 1rem 1rem 0;
   padding: 0.75rem 1rem;
-  color: $header-bg-color;
-  border: 1px solid $header-bg-color;
+  color: $brick;
+  background-color: $cream-panel;
+  border: 2px solid $ink;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s;
 
   &:hover {
-    color: #fff;
-    background-color: $header-bg-color;
+    color: $cream;
+    background-color: $brick;
+    border-color: $brick;
     text-decoration: none;
   }
 }
@@ -52,8 +88,8 @@ $section-headings-color: #0e7c66;
   gap: 1.5rem;
   margin: 0 0 2.5rem;
   padding: 1.75rem;
-  background-color: $code-bg-color;
-  border: 1px solid $border-color;
+  background-color: $cream-panel;
+  border: 3px solid $ink;
   border-radius: 0.5rem;
 }
 
@@ -64,9 +100,8 @@ $section-headings-color: #0e7c66;
 .stat-number {
   display: block;
   font-size: 2.25rem;
-  font-weight: 700;
   line-height: 1.1;
-  color: $header-bg-color;
+  color: $brick;
 }
 
 .stat-label {
@@ -79,7 +114,7 @@ $section-headings-color: #0e7c66;
 .timeline {
   margin: 1.5rem 0 2.5rem;
   padding-left: 1.5rem;
-  border-left: 0.3rem solid $border-color;
+  border-left: 0.3rem solid $navy;
 }
 
 .timeline-item {
@@ -93,8 +128,7 @@ $section-headings-color: #0e7c66;
 .timeline-date {
   display: block;
   margin-bottom: 0.15rem;
-  font-weight: 700;
-  color: $header-bg-color;
+  color: $navy;
 }
 
 .timeline-text {
@@ -104,15 +138,14 @@ $section-headings-color: #0e7c66;
 .cta-box {
   margin: 3rem 0 2.5rem;
   padding: 2.5rem;
-  color: #fff;
+  color: $cream;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-color: $navy;
   border-radius: 0.5rem;
 
   h2 {
     margin-top: 0;
-    color: #fff;
+    color: $cream;
   }
 
   p {

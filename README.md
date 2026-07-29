@@ -5,7 +5,7 @@ Source for <https://vibrantdavis.org>, a project of [Somerville YIMBY](https://s
 Hosted with [GitHub Pages](https://pages.github.com/), served from the `main` branch. Pushes to `main` deploy automatically. The site uses Jekyll's stock [Cayman theme](https://github.com/pages-themes/cayman) — no `_layouts` override, no forked template. Site title and the homepage's `<title>` are both "Vibrant Davis"; the theme's own header renders `site.title`/`page.title` and `page.description` as-is.
 
 - `_config.yml` — site title/description and `theme:`.
-- `assets/css/style.scss` — the theme's own documented customization hook (`@import "{{ site.theme }}";` plus additions), not a theme modification. Retunes the accent colors to the Vibrant Davis teal and adds `.kicker`, `.hero-headline`, `.button-row`/`.btn-outline`, `.stat-strip`, `.timeline`, `.cta-box`, and `.footnote` classes used by `index.md`.
+- `assets/css/style.scss` — the theme's own documented customization hook (`@import "{{ site.theme }}";` plus additions), not a theme modification. Sets the cream/ink/brick/navy/mustard palette (drawn from the "We Love Somerville" poster) and Lilita One/Work Sans typefaces, and adds `.kicker`, `.hero-headline`, `.button-row`/`.btn-outline`, `.stat-strip`, `.timeline`, `.cta-box`, and `.footnote` classes used by `index.md`.
 - `index.md` — the page content, as Markdown with a few raw HTML blocks (stat strip, hero button row, timeline, CTA card) that lean on those classes. The kicker line and campaign headline live here in the body, not in the theme's header — Cayman's stock layout only has room for a title and one tagline.
 
 ## Local preview
