@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vibrant Davis"
+title: "Neighbors for a Vibrant Davis Square"
 description: >-
   A proposed high-rise at Elm & Grove swaps empty storefronts for 502 apartments, keeps The Burren and Dragon Pizza, and would be built by union labor.
 ---
