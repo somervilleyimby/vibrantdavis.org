@@ -21,7 +21,7 @@ description: >-
   </div>
   <div class="stat">
     <span class="stat-number">126</span>
-    <span class="stat-label">Income-restricted homes</span>
+    <span class="stat-label">Subsidized below-market homes</span>
   </div>
   <div class="stat">
     <span class="stat-number">$1,829</span>
@@ -35,7 +35,9 @@ Walk along Elm Street, from The Burren to Dragon Pizza, and you’ll see too man
 
 ## The homes we could have
 
-We could have 502 homes here, and 126 of them (25%!) would be income-restricted. That would mean subsidized one-bedroom homes at about $1,829/mo. for people Somerville keeps pricing out through inaction, covered by market-rate rents of the remaining 376 homes.
+We could have 502 homes here, and 126 of them (25%!) would be subsidized below-market. That means one-bedroom homes at about $1,829/mo. for people Somerville keeps pricing out through inaction, covered by market-rate rents of the remaining 376 homes.
+
+At street level, this would be small storefronts sized for independent shops and cafés, with wider sidewalks and a corner cut-through that opens the block up to foot traffic instead of closing it off. And it’d be built by a [100% union construction workforce](https://www.boston.com/news/business/2026/01/13/beloved-venue-the-burren-will-be-re-homed-as-part-of-a-major-somerville-redevelopment/#:~:text=The%20team%20has%20also%20committed%20to%20using%20a%20100%%20union%20construction%20workforce.).
 
 ## The neighbors who stay
 
@@ -43,20 +45,20 @@ The Burren wouldn’t lose its spot. Owner Tommy McCarthy signed a short-term ex
 
 The businesses everyone worries about losing are already willing & able to stay here.
 
-## The crew who would build it
-
-Copper Mill’s committed to a [100% union construction workforce](https://www.boston.com/news/business/2026/01/13/beloved-venue-the-burren-will-be-re-homed-as-part-of-a-major-somerville-redevelopment/#:~:text=The%20team%20has%20also%20committed%20to%20using%20a%20100%%20union%20construction%20workforce.). Union tradespeople would build this, something important and vital to us here in Somerville.
-
 ## Why here, why now
 
-[SomerVision 2040 marks Davis Square an "Enhance" area](http://www.somervision2040.com/wp-content/uploads/sites/3/2021/10/SomerVision-2040-Adopted.pdf) — meant to grow, not freeze. [Two-thirds](https://censusreporter.org/profiles/16000US2562535-somerville-ma/) of Somerville rents, and the city’s own plan says a key solution is more homes near transit. This site’s right atop the Red Line.
+[SomerVision 2040](http://www.somervision2040.com/wp-content/uploads/sites/3/2021/10/SomerVision-2040-Adopted.pdf) is Somerville’s long-range plan, adopted by the city after years of public input. It sorts the city into areas meant to stay as they are and areas meant to grow, and it marks Davis Square an “Enhance” area: meant to grow. That’s not us borrowing someone else’s authority. That’s our own plan saying growth belongs here.
+
+The logic behind that is straighforward. [Two-thirds](https://censusreporter.org/profiles/16000US2562535-somerville-ma/) of Somerville households rent, and rents climb fastest where the number of homes hasn’t kept up with the number of people who want to live here. Building more homes, especially subsidized below-market ones, is how a city keeps itself livable for the renters already here, while welcoming newcomers.
+
+Transit is the other half of it. This site sits right on the Red Line, a short walk from bus lines that reach the rest of the city. Homes here mean more people within walking distance of the T, not more cars competing for street parking, exactly the kind of location SomerVision says should hold more people, not fewer.
 
 That’s our plan working.
 
 <div class="cta-box">
   <p class="kicker">Make your voice heard</p>
   <h2>Opposition shows up to every meeting. Supporters need to too.</h2>
-  <p>Want 502 homes — 126 of them affordable — instead of another decade of empty storefronts? Say so.</p>
+  <p>Want 502 homes — 126 of them subsidized below-market — instead of another decade of empty storefronts? Say so.</p>
   <a href="https://forms.gle/oeBvPkFUc3njmQ9R7" class="btn">Sign up for project alerts ↗</a>
   <a href="https://forms.gle/6zzRtbLT9DwUHVch7" class="btn">Volunteer to help ↗</a>
   <a href="https://www.davissquarenc.org/membership" class="btn">Join the Davis Square Neighborhood Council ↗</a>
