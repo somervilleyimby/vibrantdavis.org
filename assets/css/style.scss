@@ -11,9 +11,9 @@ $brick: #a63f2e;
 $mustard: #d6a62e;
 $navy: #2b3a67;
 
-$header-bg-color: $mustard;
-$header-bg-color-secondary: $mustard;
-$header-heading-color: $ink;
+$header-bg-color: $navy;
+$header-bg-color-secondary: $navy;
+$header-heading-color: #fff;
 $section-headings-color: $brick;
 $body-text-color: $ink;
 $body-link-color: $brick;
@@ -29,6 +29,12 @@ $table-border-color: mix($ink, $cream, 25%);
 body {
   background-color: $cream;
   font-family: "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.page-header {
+  background-image: linear-gradient(rgba($navy, 0.78), rgba($navy, 0.78)), url("/assets/images/davis-square-sign.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .project-name,
