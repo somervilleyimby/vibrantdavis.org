@@ -1,0 +1,17 @@
+{
+  // Config for markdownlint (VS Code extension + markdownlint-cli2).
+  // Starts from the defaults; only the rules that clash with how this
+  // Jekyll site is authored are relaxed.
+
+  // MD013/line-length: prose is written one paragraph per line so that
+  // diffs stay readable at the sentence level. Wrapping is the renderer's
+  // job, not ours.
+  "MD013": false,
+
+  // MD033/no-inline-html: the theme's layout hooks are HTML blocks
+  // (hero, button row, CTA box, footnotes). Allow just the elements the
+  // pages actually use, so any *other* stray HTML still gets flagged.
+  "MD033": {
+    "allowed_elements": ["a", "br", "div", "h2", "p"]
+  }
+}
