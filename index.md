@@ -16,7 +16,9 @@ Somerville is currently seeking input on the future of Davis Square via a Techni
 
 ## It needs to be Davis
 
-Davis Square is one of Somerville’s most vibrant commercial squares, with grocery stores, bars and restaurants, theaters, and more. It’s immensely walkable, and has Somerville’s only heavy rail transit station in the Davis Square Red Line station. With the Community Path, the addition of the Elm–Beacon bike lanes, and regular bus service, Davis Square is the most well-connected place in all of Somerville.
+Davis Square is one of Somerville’s most vibrant commercial squares, with grocery stores, bars and restaurants, theaters, and more. It’s immensely walkable, and has one of Somerville’s very few heavy rail transit stations, Davis Square Station on the Red Line.
+
+With the Community Path, the addition of the Elm–Beacon bike lanes, and regular bus service, Davis Square is the most well-connected place in all of Somerville.
 
 What it doesn’t have is housing. Look around and you’ll see single-story retail, office buildings, and the occasional triple-decker or three-story apartment building. You won’t see anywhere for the many people that support Davis to live. That’s a problem.
 
