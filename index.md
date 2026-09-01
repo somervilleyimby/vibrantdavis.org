@@ -2,70 +2,42 @@
 layout: default
 title: "Neighbors for a Vibrant Davis Square"
 description: >-
-  A proposed high-rise at Elm & Grove swaps empty storefronts for 502 apartments, keeps The Burren and Dragon Pizza, and would be built by union labor.
+  Somerville has declared a housing emergency. Davis Square — the city’s most well-connected square — should be part of the solution.
 ---
 
-<p class="kicker">Davis Square @ Elm & Grove Street</p>
-
-<p class="hero-headline">Davis Square needs homes.<br />This block could have 502 of them.</p>
+<p class="hero-headline">Somerville has declared a housing emergency.<br />Davis Square should be part of the solution.</p>
 
 <div class="button-row">
-  <a href="#the-site-today" class="btn-outline">Learn how & why ↓</a>
-  <a href="https://voice.somervillema.gov/davis-square-40b-project" class="btn-outline">City’s project page ↗</a>
+  <a href="#it-needs-to-be-davis" class="btn-outline">Learn how &amp; why ↓</a>
+  <a href="https://voice.somervillema.gov/davis-square-plan" class="btn-outline">City’s project page ↗</a>
 </div>
 
-<div class="stat-strip">
-  <div class="stat">
-    <span class="stat-number">502</span>
-    <span class="stat-label">Homes</span>
-  </div>
-  <div class="stat">
-    <span class="stat-number">126</span>
-    <span class="stat-label">Subsidized below-market homes</span>
-  </div>
-  <div class="stat">
-    <span class="stat-number">$1,829</span>
-    <span class="stat-label">Subsidized 1 bedroom rent</span>
-  </div>
-</div>
+Somerville is currently seeking input on the future of Davis Square via a Technical Advisory Committee that is asking the community what they think Davis Square should look like. We think the answer is simple: more housing, more businesses, more Davis Square.
 
-## The site today
+## It needs to be Davis
 
-Walk along Elm Street, from The Burren to Dragon Pizza, and you’ll see too many empty storefronts. Boarded-up windows aren’t neighborhood character we want, and conditions mean they’ll stay boarded up without significant investment. Leaving things as they are is a choice to let this block continue to deteriorate.
+Davis Square is one of Somerville’s most vibrant commercial squares, with grocery stores, bars and restaurants, theaters, and more. It’s immensely walkable, and has Somerville’s only heavy rail transit station in the Davis Square Red Line station. With the Community Path, the addition of the Elm–Beacon bike lanes, and regular bus service, Davis Square is the most well-connected place in all of Somerville.
 
-## The homes we could have
+What it doesn’t have is housing. Look around and you’ll see single-story retail, office buildings, and the occasional triple-decker or three-story apartment building. You won’t see anywhere for the many people that support Davis to live. That’s a problem.
 
-We could have 502 homes here, and 126 of them (25%!) would be subsidized below-market. That means one-bedroom homes at about $1,829/mo. for people Somerville keeps pricing out through inaction, covered by market-rate rents of the remaining 376 homes.
+## Who wins when we build?
 
-At street level, this would be small storefronts sized for independent shops and cafés, with wider sidewalks and a corner cut-through that opens the block up to foot traffic instead of closing it off. And it’d be built by a [100% union construction workforce](https://www.boston.com/news/business/2026/01/13/beloved-venue-the-burren-will-be-re-homed-as-part-of-a-major-somerville-redevelopment/#:~:text=The%20team%20has%20also%20committed%20to%20using%20a%20100%%20union%20construction%20workforce.).
+[Two-thirds](https://censusreporter.org/profiles/16000US2562535-somerville-ma/) of Somerville households rent. More homes means more supply, more options, and more accessibility.
 
-## The neighbors who stay
+When we build more homes, we give people a place to live that doesn’t involve displacing someone else. Instead of bidding on your home, new neighbors can bid on a newly built home and not drive your rent up or force you out.
 
-The Burren wouldn’t lose its spot. Owner Tommy McCarthy signed a short-term extension at the current location, and a long-term lease to move back in once the building’s done. [Dragon Pizza’s return has been confirmed too](https://www.nbcboston.com/news/local/somerville-davis-square-redevelopment-the-burren-dragon-pizza/3877469/).
+When we build more homes, we give people more choices to pick their housing situation. Instead of four friends having to share a 4-bed, they can each get their own apartment and leave that 4-bed for a family with kids. Empty nesters can downsize or switch to single-floor living and remain in their cherished neighborhoods.
 
-The businesses everyone worries about losing are already willing & able to stay here.
+When we build more homes, we build homes that meet modern standards. Old housing doesn’t meet the needs of our elderly or disabled neighbors. There aren’t elevators or wheelchair accessible units in our older homes. Newer, denser buildings are required to provide these services so that our more vulnerable neighbors can continue to live where they grew up.
 
-## Why here, why now
-
-[SomerVision 2040](http://www.somervision2040.com/wp-content/uploads/sites/3/2021/10/SomerVision-2040-Adopted.pdf) is Somerville’s long-range plan, adopted by the city after years of public input. It sorts the city into areas meant to stay as they are and areas meant to grow, and it marks Davis Square an “Enhance” area: meant to grow. That’s not us borrowing someone else’s authority. That’s our own plan saying growth belongs here.
-
-The logic behind that is straighforward. [Two-thirds](https://censusreporter.org/profiles/16000US2562535-somerville-ma/) of Somerville households rent, and rents climb fastest where the number of homes hasn’t kept up with the number of people who want to live here. Building more homes, especially subsidized below-market ones, is how a city keeps itself livable for the renters already here, while welcoming newcomers.
-
-Transit is the other half of it. This site sits right on the Red Line, a short walk from bus lines that reach the rest of the city. Homes here mean more people within walking distance of the T, not more cars competing for street parking, exactly the kind of location SomerVision says should hold more people, not fewer.
-
-That’s our plan working.
+In short, when we build more homes, we all win.
 
 <div class="cta-box">
   <p class="kicker">Make your voice heard</p>
-  <h2>Opposition shows up to every meeting. Supporters need to too.</h2>
-  <p>Want 502 homes — 126 of them subsidized below-market — instead of another decade of empty storefronts? Say so.</p>
-  <a href="https://forms.gle/oeBvPkFUc3njmQ9R7" class="btn">Sign up for project alerts ↗</a>
-  <a href="https://forms.gle/6zzRtbLT9DwUHVch7" class="btn">Volunteer to help ↗</a>
+  <h2>Tell Somerville you want more housing in Davis.</h2>
+  <p>The Technical Advisory Committee is asking what Davis Square should look like. Answer it.</p>
+  <a href="https://forms.gle/oeBvPkFUc3njmQ9R7" class="btn">Join our mailing list ↗</a>
   <a href="https://www.davissquarenc.org/membership" class="btn">Join the Davis Square Neighborhood Council ↗</a>
 </div>
 
-<p class="footnote">For the City’s record of this proposal, see <a href="https://voice.somervillema.gov/davis-square-40b-project">the City’s project page</a>. Figures on units, affordability, and rents are from Copper Mill’s MassHousing filing and city records, both available from <a href="https://voice.somervillema.gov/davis-square-40b-project">the City’s project page</a>.</p>
-
-<p class="footnote">Reporting on tenant commitments, labor, and process status: <a href="https://www.wbur.org/news/2026/01/09/burren-davis-square-high-rise">WBUR</a>, <a href="https://www.boston.com/news/business/2026/01/13/beloved-venue-the-burren-will-be-re-homed-as-part-of-a-major-somerville-redevelopment/">Boston.com</a>, <a href="https://www.nbcboston.com/news/local/somerville-davis-square-redevelopment-the-burren-dragon-pizza/3877469/">NBC Boston</a>, <a href="https://www.thecrimson.com/article/2026/1/15/burren-will-return-to-davis-square/">The Harvard Crimson</a>, and the <a href="https://csindie.com/developer-is-back-talking-with-the-public-about-its-davis-square-tower-proposal/">Cambridge/Somerville Independent</a>.</p>
-
-<p class="footnote">Compiled July 2026 — please reach out to <a href="mailto:info@vibrantdavis.org">info@vibrantdavis.org</a> if any links are broken & let us know.</p>
+<p class="footnote">Please reach out to <a href="mailto:info@vibrantdavis.org">info@vibrantdavis.org</a> if any links are broken &amp; let us know.</p>
