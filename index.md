@@ -10,7 +10,7 @@ description: >-
 <div class="button-row">
   <a href="#why-davis" class="btn-outline">Learn how &amp; why ↓</a>
   <a href="https://voice.somervillema.gov/davis-square-plan" class="btn-outline">City’s project page ↗</a>
-  <a href="https://cityofsomerville.jotform.com/262144404986057" class="btn-outline">Davis Square Neighborhood Plan Survey ↗</a>
+  <a href="https://cityofsomerville.jotform.com/262144404986057" class="btn-outline">Tell the City What You Think ↗</a>
 </div>
 
 Somerville is currently seeking input on the future of Davis Square via a Technical Advisory Committee that is asking the community what they think Davis Square should look like. We think the answer is simple: more housing, more businesses, more Davis Square.
@@ -46,6 +46,7 @@ In short, when we build more homes, we all win.
   -->
   <a href="https://forms.gle/oeBvPkFUc3njmQ9R7" class="btn">Join our mailing list ↗</a>
   <a href="https://www.davissquarenc.org/membership" class="btn">Join the Davis Square Neighborhood Council ↗</a>
+  <a href="https://cityofsomerville.jotform.com/262144404986057" class="btn">Tell the City What You Think ↗</a>
 </div>
 
 <p class="footnote">Please reach out to <a href="mailto:info@vibrantdavis.org">info@vibrantdavis.org</a> if any links are broken &amp; let us know.</p>
