@@ -10,6 +10,7 @@ description: >-
 <div class="button-row">
   <a href="#why-davis" class="btn-outline">Learn how &amp; why ↓</a>
   <a href="https://voice.somervillema.gov/davis-square-plan" class="btn-outline">City’s project page ↗</a>
+  <a href="https://cityofsomerville.jotform.com/262144404986057" class="btn-outline">Davis Square Neighborhood Plan Survey ↗</a>
 </div>
 
 Somerville is currently seeking input on the future of Davis Square via a Technical Advisory Committee that is asking the community what they think Davis Square should look like. We think the answer is simple: more housing, more businesses, more Davis Square.
